@@ -1,0 +1,33 @@
+_repo: The-German-PioneersA-Tale-of-the-Mohawk_34583
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sternberg, Levi
+    gutenberg_agent_id: '37100'
+    url: http://www.gutenberg.org/2009/agents/37100
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spielhagen, Friedrich
+    birthdate: 1829
+    deathdate: 1911
+    gutenberg_agent_id: '37099'
+    url: http://www.gutenberg.org/2009/agents/37099
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_von_Spielhagen
+description: ''
+gutenberg_issued: '2010-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germans -- New York (State) -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Mohawk River Valley (N.Y.) -- Fiction'
+title: 'The German Pioneers: A Tale of the Mohawk'
+url: http://www.gutenberg.org/ebooks/34583
